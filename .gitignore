@@ -4,6 +4,10 @@
 *.dll
 *.so
 *.dylib
+bin/
+
+tools/.venv/
+tools/__pycache__/
 
 bin/
 tools/.venv/
